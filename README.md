@@ -1,6 +1,6 @@
 Hi there 👋
 My Name is Fehmi.
-I am a Software Engineer.
+I am a FullStack Developer.
 
 
 
