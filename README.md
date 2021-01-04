@@ -2,6 +2,9 @@ Hi there 👋
 My Name is Fehmi.
 I am a FullStack Developer.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fkaraagac11)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
